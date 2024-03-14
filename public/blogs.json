@@ -38,15 +38,5 @@
         "posted_date": "March 11, 2024",
         "reading_time": 8,
         "hashtags": ["#horror", "#suspense", "#ghosts"]
-    },
-    {
-        "id": "567890",
-        "cover": "[Link to Cover Image]",
-        "title": "Echoes of Destiny",
-        "author": "Jessica Miller",
-        "author_img": "[Link to Author Image]",
-        "posted_date": "March 10, 2024",
-        "reading_time": 20,
-        "hashtags": ["#fantasy", "#magic", "#prophecy"]
     }
 ]
